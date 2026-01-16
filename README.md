@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajeet Yadav
 
-<!--
-**theajeetcodes/theajeetcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | HTML · CSS · JavaScript  
+🚀 Building real-world web projects with a focus on clean UI and practical functionality
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+HTML • CSS • JavaScript • Responsive Web Design
+
+---
+
+## 📌 Projects
+- **My Projects** – Collection of my HTML, CSS, and JavaScript projects:  
+  👉 https://github.com/theajeetcodes/my-projects  
+
+*(More real-world projects coming soon)*
+
+---
+
+## 📫 Contact
+📧 Email: ajeetyadavajju88@gmail.com  
+<!-- LinkedIn & Portfolio will be added when ready -->
+
+---
+
+## ⚡ Notes
+- I actively build and improve frontend projects.  
+- Currently working on a larger real-world project (will be published soon).
+
