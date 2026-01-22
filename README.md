@@ -40,7 +40,7 @@ https://github.com/theajeetcodes/my-projects
 
 ## 🚧 Currently Working On
 
-### 🏪 Uncle’s Kirana Store Website
+### 🏪 Uncle Kirana Store Website
 A real-world frontend project for a local business.
 
 **Focus areas:**
