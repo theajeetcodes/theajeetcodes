@@ -38,33 +38,49 @@ https://github.com/theajeetcodes/my-projects
 
 ---
 
-## 🚧 Currently Working On
+## 🚀 Completed Projects
 
 ### 🏪 Uncle Kirana Store Website
 A real-world frontend project for a local business.
 
 **Focus areas:**
-- Mobile-first responsive design
-- Clean and professional UI
-- Practical business use case
+- Mobile-first responsive design  
+- Clean and professional UI  
+- Practical business use case  
 
-🚧 **Status:** Work in Progress  
-🔗 **Live Demo:** Coming Soon
+✅ **Status:** Frontend Completed  
+🔗 **Live Demo:** https://theajeetcodes.github.io/uncle-kirana-store/  
+📂 **Source Code:** https://github.com/theajeetcodes/uncle-kirana-store
+
+---
+
+## 🚧 Currently Working On
+
+### 🌐 Portfolio Website
+My personal portfolio site to showcase all projects, skills, and professional work.
+
+**Focus areas:**
+- Modern portfolio design  
+- Responsive layout  
+- Interactive project showcase  
+
+🚧 **Status:** Currently Working  
+🔗 **Live Demo:** Coming Soon  
+📂 **Source Code:** Coming Soon
 
 ---
 
 ## 📫 Contact
 
-- 📧 **Email:** ajeetyadavajju88@gmail.com
+- 📧 **Email:** ajeetyadavajju88@gmail.com  
 - 🐙 **GitHub:** https://github.com/theajeetcodes
 
 ---
 
 ## ⚡ Notes
 
-- I actively build and improve frontend projects
-- I focus on **learning by building**, not just tutorials
-- Currently focused on learning and building real-world frontend projects.
-
+- I actively build and improve frontend projects  
+- I focus on **learning by building**, not just tutorials  
+- Currently focused on learning and building real-world frontend projects  
 
 ⭐ *This profile will evolve as I grow as a frontend developer.*
