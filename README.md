@@ -1,86 +1,109 @@
-# 👋 Hi, I'm Ajeet Yadav
+<h1 align="center">👋 Hi, I'm Ajeet Yadav</h1>
 
-![Frontend Developer](https://img.shields.io/badge/Role-Frontend%20Developer-blue)
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![GitHub](https://img.shields.io/badge/GitHub-Active-success)
+<p align="center">
+  💻 Frontend Developer | Building Real-World Projects <br>
+  🚀 Focused on Clean UI, Responsive Design & JavaScript Logic
+</p>
 
-💻 **Frontend Developer** passionate about building **real-world web projects**  
-🚀 Focused on **clean UI, responsive design, and practical JavaScript functionality**
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-blue">
+  <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5">
+  <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript">
+  <img src="https://img.shields.io/badge/GitHub-Active-success?logo=github">
+</p>
+
+---
+
+## 🚀 About Me
+
+<p align="center">
+  Passionate about building <b>real-world frontend projects</b> that solve practical problems. <br>
+  I focus on <b>clean UI</b>, <b>responsive layouts</b>, and <b>strong JavaScript logic</b>.
+</p>
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
-- **Responsive Web Design**
-- **Git & GitHub**
-- **GitHub Pages (Deployment)**
+<p align="center">
+  HTML5 • CSS3 • JavaScript (ES6+) • Responsive Design • Git • GitHub • GitHub Pages
+</p>
 
 ---
 
 ## 📌 Projects
 
-### 🔹 My Frontend Projects
-A collection of projects built using **HTML, CSS, and JavaScript**, focused on logic building and UI clarity.
+### 🔹 Frontend Projects Collection
+A collection of projects built using **HTML, CSS, and JavaScript**.
 
 👉 **Repository:**  
-https://github.com/theajeetcodes/my-projects
+https://github.com/theajeetcodes/my-projects  
 
 ✔️ Games  
 ✔️ Interactive apps  
-✔️ JavaScript logic-based projects  
-
-*(More real-world projects coming soon)*
+✔️ Logic-based projects  
 
 ---
 
-## 🚀 Completed Projects
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects, skills, and contact.
 
-### 🏪 Uncle Kirana Store Website
-A real-world frontend project for a local business.
+- 🚀 Modern UI design  
+- 📱 Fully responsive layout  
+- 💼 Professional presentation  
 
-**Focus areas:**
-- Mobile-first responsive design  
-- Clean and professional UI  
-- Practical business use case  
+🔗 **Live Demo:**  
+https://theajeetcodes.github.io/portfolio/  
 
-✅ **Status:** Frontend Completed  
-🔗 **Live Demo:** https://theajeetcodes.github.io/uncle-kirana-store/  
-📂 **Source Code:** https://github.com/theajeetcodes/uncle-kirana-store
+📂 **Source Code:**  
+https://github.com/theajeetcodes/portfolio  
 
 ---
 
 ## 🚧 Currently Working On
 
-### 🌐 Portfolio Website
-My personal portfolio site to showcase all projects, skills, and professional work.
+### 📸 Instagram Clone
+Frontend clone inspired by Instagram UI.
 
-**Focus areas:**
-- Modern portfolio design  
-- Responsive layout  
-- Interactive project showcase  
+- 🎯 Pixel-perfect UI focus  
+- 📱 Responsive design  
+- ⚡ JavaScript features coming soon  
 
-🚧 **Status:** Currently Working  
-🔗 **Live Demo:** Coming Soon  
-📂 **Source Code:** Coming Soon
+🚧 **Status:** In Progress  
+
+🔗 **Live Demo:**  
+*Coming soon...*
+
+📂 **Source Code:**  
+https://github.com/theajeetcodes/instagram-clone  
 
 ---
 
 ## 📫 Contact
 
-- 📧 **Email:** ajeetyadavajju88@gmail.com  
-- 🐙 **GitHub:** https://github.com/theajeetcodes
+<p align="center">
+  <a href="https://github.com/theajeetcodes">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/ajeet-yadav-9339313b3">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+  </a>
+  <a href="mailto:ajeetyadavajju88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail">
+  </a>
+</p>
 
 ---
 
-## ⚡ Notes
+## ⚡ Developer Mindset
 
-- I actively build and improve frontend projects  
-- I focus on **learning by building**, not just tutorials  
-- Currently focused on learning and building real-world frontend projects  
+- 💡 I learn by **building real projects**  
+- 🔥 Focused on becoming **job-ready frontend developer**  
+- 🚀 Improving daily with consistency & discipline  
 
-⭐ *This profile will evolve as I grow as a frontend developer.*
+---
+
+<p align="center">
+  ⭐ Growing step by step — next goal: Internship 🚀
+</p>
