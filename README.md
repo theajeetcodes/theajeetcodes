@@ -63,20 +63,23 @@ https://github.com/theajeetcodes/portfolio
 
 ## 🚧 Currently Working On
 
-### 📸 Instagram Clone
-Frontend clone inspired by Instagram UI.
+### 🌦️ Weather App
 
-- 🎯 Pixel-perfect UI focus  
-- 📱 Responsive design  
-- ⚡ JavaScript features coming soon  
+A modern weather application built using **HTML, CSS, and JavaScript** with real-time weather data integration.
 
-🚧 **Status:** In Progress  
+* 🌍 Search weather by city name
+* 🌡️ Displays temperature and weather conditions
+* 📱 Fully responsive design
+* 🎨 Modern UI with dynamic weather icons
+* ⚡ Real-time API integration
 
-🔗 **Live Demo:**  
+🚧 **Status:** In Progress
+
+🔗 **Live Demo:**
 *Coming soon...*
 
-📂 **Source Code:**  
-https://github.com/theajeetcodes/instagram-clone  
+📂 **Source Code:**
+https://github.com/theajeetcodes/weather-app
 
 ---
 
