@@ -63,15 +63,17 @@ https://github.com/theajeetcodes/portfolio
 
 ## 🚧 Currently Working On
 
-### 🌦️ Weather App
+### 🤖 Thinkora AI
 
-A modern weather application built using **HTML, CSS, and JavaScript** with real-time weather data integration.
+A modern AI-powered chatbot inspired by ChatGPT, built using HTML, CSS, and Vanilla JavaScript.
 
-* 🌍 Search weather by city name
-* 🌡️ Displays temperature and weather conditions
-* 📱 Fully responsive design
-* 🎨 Modern UI with dynamic weather icons
-* ⚡ Real-time API integration
+* 💬 Interactive chat interface
+* 🎨 Clean and modern UI design
+* 📱 Fully responsive layout
+* ⚡ Dynamic DOM manipulation using JavaScript
+* 🤖 AI integration using external APIs
+* 🌙 Dark mode experience
+* 💾 Chat history support (planned)
 
 🚧 **Status:** In Progress
 
@@ -79,7 +81,7 @@ A modern weather application built using **HTML, CSS, and JavaScript** with real
 *Coming soon...*
 
 📂 **Source Code:**
-https://github.com/theajeetcodes/weather-app
+https://github.com/theajeetcodes/thinkora
 
 ---
 
