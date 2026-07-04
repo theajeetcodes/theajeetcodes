@@ -63,17 +63,18 @@ https://github.com/theajeetcodes/portfolio
 
 ## 🚧 Currently Working On
 
-### 🤖 Thinkora AI
+### 🛒 Amazon Clone
 
-A modern AI-powered chatbot inspired by ChatGPT, built using HTML, CSS, and Vanilla JavaScript.
+A modern Amazon-inspired e-commerce frontend built using HTML, CSS, and JavaScript, focused on creating a responsive and professional shopping experience.
 
-* 💬 Interactive chat interface
-* 🎨 Clean and modern UI design
-* 📱 Fully responsive layout
-* ⚡ Dynamic DOM manipulation using JavaScript
-* 🤖 AI integration using external APIs
-* 🌙 Dark mode experience
-* 💾 Chat history support (planned)
+* 🛍️ Amazon-style homepage and navigation
+* 📦 Product cards with clean UI
+* 🔍 Search bar and category layout
+* 📱 Fully responsive design
+* ⚡ Dynamic interactions using JavaScript
+* 🎨 Pixel-perfect frontend implementation
+* 🧩 Well-structured and organized code
+* 🚀 Continuous feature improvements
 
 🚧 **Status:** In Progress
 
@@ -81,7 +82,7 @@ A modern AI-powered chatbot inspired by ChatGPT, built using HTML, CSS, and Vani
 *Coming soon...*
 
 📂 **Source Code:**
-https://github.com/theajeetcodes/thinkora
+https://github.com/theajeetcodes/amazon-clone
 
 ---
 
